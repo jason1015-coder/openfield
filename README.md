@@ -1,0 +1,2 @@
+# openfield-strategy-game
+/
