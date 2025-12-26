@@ -8,6 +8,6 @@ the game will be released soon
 [no release yet]
 
 
-## ** Available versions **
+## Available versions 
 
 [no versions]
