@@ -3,11 +3,11 @@
 
 the game will be released soon
 
-MOST RECENT STABLE RELEASE
+##MOST RECENT STABLE RELEASE
 
 [no release yet]
 
 
-Available versions
+##Available versions
 
 [no versions]
