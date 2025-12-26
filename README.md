@@ -1,4 +1,4 @@
-# openfield-strategy-game
+# openfield
 
 
 the game will be released soon
